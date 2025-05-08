@@ -27,3 +27,16 @@ Multiplayer mode allows players to race against each other, using split-screen a
 Options can change screen resolution, anti aliasing, shadow quality, texture quality, volume, and can see button mapping.
 
 <img src="https://github.com/user-attachments/assets/6b57be39-d374-4555-af40-d49ffa7bcd4e" width="400" hspace="5"/>
+
+## Assets
+This assets i created for this game.
+
+<img src="https://github.com/user-attachments/assets/4ba6b327-031a-4ebe-b883-6bb389f9da0d" width="400" hspace="5"/>
+<img src="https://github.com/user-attachments/assets/901c84e6-1765-4ca9-8d18-cc4cec9653d0" width="400" hspace="5"/>
+<img src="https://github.com/user-attachments/assets/22d15415-e8f9-4aa9-9b81-b1e8eaec575a" width="400" hspace="5"/>
+<img src="https://github.com/user-attachments/assets/ad58e953-af1c-4cbe-be31-db82d0d05622" width="400" hspace="5"/>
+<img src="https://github.com/user-attachments/assets/49cd23aa-41ca-44d1-878a-9f5ffa7a53f5" width="400" hspace="5"/>
+<img src="https://github.com/user-attachments/assets/60b32768-419d-40b2-b0ff-d7d21ca8e420" width="400" hspace="5"/>
+<img src="https://github.com/user-attachments/assets/fff2ecae-fa0a-4238-ac88-c95fcc081a04" width="400" hspace="5"/>
+<img src="https://github.com/user-attachments/assets/b68e88ba-8887-47de-8e63-1b9b40c4bb82" width="400" hspace="5"/>
+<img src="https://github.com/user-attachments/assets/1034a458-0a7a-4d71-8e0f-823fca28b22b" width="400" hspace="5"/>
